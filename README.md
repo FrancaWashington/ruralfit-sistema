@@ -1,11 +1,15 @@
-# ruralfit-sistema
-Estrutura que atende todos os itens pedidos:
+# RuralFit — Sistema de Gerenciamento de Academia
 
-Descrição do sistema (RuralFit)
-Link do repositório
-Estrutura do projeto (árvore de pastas)
-Descrição dos commits (tabela: hash, mensagem, o que mudou)
-Descrição da versão v1.0.0
-Descrição da mudança simulada (antes/depois)
-Evidências (prints: página do repo, histórico de commits, tags, diff da alteração)
-Conclusão sobre a importância da Gerência de Configuração
+## Nome do sistema
+RuralFit
+
+## Objetivo do sistema
+Gerenciar as operações diárias da academia RuralFit: cadastro de alunos,
+controle de planos, registro de check-ins e acompanhamento de pagamentos.
+
+## Principais funcionalidades
+- Cadastro, edição e exclusão de alunos
+- Gestão de planos (mensal, trimestral, anual)
+- Registro de check-in dos alunos
+- Controle de pagamentos e inadimplência
+- Relatórios de frequência
